@@ -1,0 +1,8 @@
+Hello Sir, 
+
+In this project I found it hard to gather the data from AGDM site, there is lot to process on that website. Therefore, I performed the task with the templates I found form the website. 
+Example : To identify **Company Formation process** we require different AOA, MOU, diretors, incorporation docs. It would be nice if someone can give me curated list of templates.
+
+So for this project I have assumed 6 documents required for my Company formation process which you can see in templates folder, with that docs files i made all the project.
+
+Thank you
