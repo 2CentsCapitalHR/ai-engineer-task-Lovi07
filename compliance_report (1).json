@@ -1,0 +1,46 @@
+{
+    "process": "Company Formation & Governance",
+    "documents_uploaded": 4,
+    "required_documents": 6,
+    "missing_document": [
+        "General Incorporation Form.docx",
+        "adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.docx"
+    ],
+    "issues_found": [
+        {
+            "document": "2-adgm-ra-resolution-registration-branch-ver-2-1-20191105.docx",
+            "issue": "Wrong jurisdiction found: 'jurisdiction of FED.'",
+            "severity": "High",
+            "suggestion": "Replace with 'Abu Dhabi Global Market (ADGM) Courts'.",
+            "snippet": ""
+        },
+        {
+            "document": "3-adgm-ra-resolution-incorporation-ltd-sole-shareholder-ver-3-0-20170202.docx",
+            "issue": "Unfilled placeholder: [insert company name]",
+            "severity": "High",
+            "suggestion": "Fill this placeholder with the correct value",
+            "snippet": "[insert company name]"
+        },
+        {
+            "document": "3-adgm-ra-resolution-incorporation-ltd-sole-shareholder-ver-3-0-20170202.docx",
+            "issue": "Missing clause: RESOLVED, that the Company be incorporated in the Abu Dhabi Global Market",
+            "severity": "High",
+            "suggestion": "Add the missing clause to match ADGM requirements",
+            "snippet": "RESOLVED, that the Company be incorporated in the Abu Dhabi Global Market"
+        },
+        {
+            "document": "3-adgm-ra-resolution-incorporation-ltd-sole-shareholder-ver-3-0-20170202.docx",
+            "issue": "Missing clause: RESOLVED, that the Company duly adopts proposed Articles of Association for the purpose of incorporation of the Company in the Abu Dhabi Global Market.",
+            "severity": "High",
+            "suggestion": "Add the missing clause to match ADGM requirements",
+            "snippet": "RESOLVED, that the Company duly adopts proposed Articles of Association for the purpose of incorporation of the Company in the Abu Dhabi Global Market."
+        },
+        {
+            "document": "3-adgm-ra-resolution-incorporation-ltd-sole-shareholder-ver-3-0-20170202.docx",
+            "issue": "Wrong jurisdiction found: 'RESOLVED, that the Company be incorporated in the American Market.'",
+            "severity": "High",
+            "suggestion": "Replace with 'Abu Dhabi Global Market (ADGM) Courts'.",
+            "snippet": ""
+        }
+    ]
+}
